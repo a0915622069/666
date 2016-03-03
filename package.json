@@ -1,0 +1,33 @@
+{
+  "name": "pttcrawler",
+  "version": "0.0.1",
+  "description": "a ptt crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "_inCache": true,
+  "_installable": true,
+  "author": "Johnny Hunag",
+  "_location": "/pttcrawler",
+  "_requiredBy": [
+    "/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:johnny9144/pttCrawler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnny9144/pttCrawler/issues"
+  },
+  "homepage": "https://github.com/johnny9144/pttCrawler",
+  "keywords": [
+    "ptt",
+    "crawler"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.55.0"
+  }
+}
