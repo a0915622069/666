@@ -6,7 +6,7 @@ The ptt Crawler could get data from almost of the ptt's board like Gossiping.
 Installation
 ===================
 
-    npm install pttCrawler
+    npm install pttcrawler
 
 Start to crawler
 ===================
