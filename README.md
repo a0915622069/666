@@ -11,8 +11,8 @@ Start to crawler
 ===================
 ```javascript
     var pttCrawler = require('pttCrawler');
-    pttCrawler.crawler('Gossiping', 0, 1,function (result) {
-      console.dir(result);
+    pttCrawler.crawler( 'Gossiping', 0, 1, function (result) {
+      console.dir( result);
     });
 ```
 Include the module and call the crawler method.
@@ -40,7 +40,7 @@ Enter the number how many pages you want to crawler.
 Callback function, it would return a object.
 License
 ===================
-The pttCrawler is authorized to Academic use.
-Copyright(c) 2016-2020 Bo-Wei Huang
-National Dong Hwa University
-MIT Licensed
+The pttCrawler is authorized to Academic use.  
+Copyright(c) 2016-2020 Bo-Wei Huang  
+National Dong Hwa University  
+MIT Licensed  
