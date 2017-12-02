@@ -1,0 +1,23 @@
+{
+  "name": "666",
+  "scripts": {
+  },
+  "env": {
+    "LINE_BOT_CHANNEL_SECRET": {
+      "required": true
+    },
+    "LINE_BOT_CHANNEL_TOKEN": {
+      "required": true
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
